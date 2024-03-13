@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,000
+computer algorithms today are performing incredible task with high accuracy
+
+2
+00:00:04,000 --> 00:00:08,000
+at a massive scale using human like Intelligence and this
+
+3
+00:00:08,000 --> 00:00:12,000
+intelligence of computers is often referred to as AI or
+
+4
+00:00:12,000 --> 00:00:16,000
+artificial intelligence AI is poised to make an incredible impact
+
+5
+00:00:16,000 --> 00:00:20,000
+on a life
+
